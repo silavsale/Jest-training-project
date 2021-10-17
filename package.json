@@ -8,5 +8,8 @@
   "license": "MIT",
   "scripts": {
     "test": "jest"
+  },
+  "dependencies": {
+    "axios": "^0.23.0"
   }
 }
