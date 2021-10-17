@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "jest": "^27.2.5"
+  },
+  "name": "Jest-Crash-Course",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  }
+}
